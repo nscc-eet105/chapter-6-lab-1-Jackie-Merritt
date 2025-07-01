@@ -1,4 +1,4 @@
-
+#Jackie_Merritt-Chp6_Lab1-6/28/2025
 days = ('Sunday   ', 'Monday   ', 'Tuesday  ', 'Wednesday', 'Thursday ', 'Friday   ', 'Saturday ')
 
 def main():
